@@ -1,4 +1,4 @@
-## Turn Killer E2200 NIC into Qualcomm Atheros AR816
+# Schimb acest text!
 
 **Sometimes you might get an issue with the VPN when the user has a Killer E220 NIC. This guide describes how to replace the driver for the NIC and make the VPN work properly again.**
 
